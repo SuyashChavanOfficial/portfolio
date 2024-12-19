@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Project A",
+        "description": "This is a project",
+        "imageSrc": "projects/project.png",
+        "skills": ["React", "Node.js", "MongoDB"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Project B",
+        "description": "This is a project",
+        "imageSrc": "projects/project.png",
+        "skills": ["React", "Node.js", "MongoDB"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Project C",
+        "description": "This is a project",
+        "imageSrc": "projects/project.png",
+        "skills": ["React", "Node.js", "MongoDB"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    }
+]
