@@ -1,11 +1,11 @@
 [
     {
         "title": "MarkMe: Effortless Checkin",
-        "description": "This is a project",
+        "description": "MarkMe is a full-stack automated attendance system that leverages facial recognition technology to mark student attendance accurately and securely. The system eliminates the need for costly biometric devices and manual entry by offering a web-based, scalable solution accessible to both students and faculty.",
         "imageSrc": "projects/project.png",
-        "skills": ["React", "Node.js", "MongoDB"],
-        "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "skills": ["React", "Node.js", "MongoDB", "Express.js", "Node.js", "Python (OpenCV, face-recognition)"],
+        "demo": "https://markme-frontend.onrender.com",
+        "source": "https://github.com/SuyashChavanOfficial/MarkMe"
     },
     {
         "title": "ReGear",
